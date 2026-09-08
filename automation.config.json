@@ -1,7 +1,7 @@
 {
-  "project_name": "Automation Hub",
-  "project_slug": "automation-hub",
-  "config_namespace": "automation-hub",
+  "project_name": "News",
+  "project_slug": "news",
+  "config_namespace": "news",
   "launch_agent_label": "com.togi.automation-hub-peer-loop",
   "task_profile": "automation",
   "test_command": [
